@@ -1,0 +1,5 @@
+/home/bogdan/Desktop/Git/Tema1/build/CMakeFiles/rebuild_cache.dir
+/home/bogdan/Desktop/Git/Tema1/build/CMakeFiles/edit_cache.dir
+/home/bogdan/Desktop/Git/Tema1/build/CMakeFiles/Item6.dir
+/home/bogdan/Desktop/Git/Tema1/build/CMakeFiles/Item5.dir
+/home/bogdan/Desktop/Git/Tema1/build/CMakeFiles/Item4.dir

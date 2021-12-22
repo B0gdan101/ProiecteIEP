@@ -1,0 +1,5 @@
+/home/bogdan/Desktop/TemaIEP2/build/CMakeFiles/edit_cache.dir
+/home/bogdan/Desktop/TemaIEP2/build/CMakeFiles/Item12.dir
+/home/bogdan/Desktop/TemaIEP2/build/CMakeFiles/rebuild_cache.dir
+/home/bogdan/Desktop/TemaIEP2/build/CMakeFiles/Item11.dir
+/home/bogdan/Desktop/TemaIEP2/build/CMakeFiles/Item10.dir

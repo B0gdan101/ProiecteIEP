@@ -1,0 +1,4 @@
+/home/bogdan/Desktop/Tema3/build/CMakeFiles/rebuild_cache.dir
+/home/bogdan/Desktop/Tema3/build/CMakeFiles/edit_cache.dir
+/home/bogdan/Desktop/Tema3/build/CMakeFiles/Item14.dir
+/home/bogdan/Desktop/Tema3/build/CMakeFiles/Item13.dir
